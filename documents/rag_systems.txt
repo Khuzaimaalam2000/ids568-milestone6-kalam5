@@ -1,0 +1,12 @@
+Retrieval-Augmented Generation (RAG) combines retrieval with language model generation.
+RAG reduces hallucinations by grounding responses in retrieved external knowledge.
+A vector database stores embeddings for efficient similarity search.
+Chunking splits documents into smaller pieces before embedding them.
+Chunk size affects retrieval quality - smaller chunks are more precise but less context.
+Chunk overlap helps maintain context across chunk boundaries.
+Embeddings are numerical representations of text that capture semantic meaning.
+FAISS is Facebook AI Similarity Search, an open-source vector database library.
+ChromaDB is an open-source embedding database designed for AI applications.
+Precision at k measures how many of the top k retrieved documents are relevant.
+Recall at k measures how many relevant documents appear in the top k results.
+Reranking improves retrieval by scoring candidate documents after initial retrieval.
