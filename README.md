@@ -29,7 +29,7 @@ ollama serve  # Keep this running in a separate terminal
 
 ### 3. Clone and install dependencies
 ```bash
-git clone [your repo URL]
+git clone https://github.com/Khuzaimaalam2000/ids568-milestone6-kalam5
 cd ids568-milestone6-kalam5
 pip install -r requirements.txt
 ```
