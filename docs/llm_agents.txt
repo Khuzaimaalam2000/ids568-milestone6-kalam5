@@ -1,0 +1,12 @@
+LLM agents use large language models as reasoning engines to complete tasks.
+Agentic AI systems autonomously decide which actions to take to achieve goals.
+Tool use allows agents to call external functions like search or calculators.
+ReAct is a prompting framework combining reasoning and acting for LLM agents.
+Chain-of-thought prompting helps LLMs reason step by step through problems.
+Multi-step reasoning breaks complex tasks into smaller sequential steps.
+Memory systems allow agents to recall information across multiple turns.
+Planning helps agents decompose complex goals into executable subtasks.
+Tool selection is the agent's decision about which tool best fits the current task.
+Agent traces log the decision points and tool calls made during task execution.
+Hallucination occurs when a model generates false information confidently.
+Grounding connects model outputs to verifiable external knowledge sources.

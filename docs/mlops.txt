@@ -1,0 +1,11 @@
+MLOps combines machine learning with DevOps practices for production systems.
+Model monitoring tracks performance degradation over time in production.
+Data drift occurs when input data distribution changes from training distribution.
+Model versioning tracks different iterations of trained models.
+CI/CD pipelines automate testing and deployment of machine learning models.
+Feature stores centralize and manage features used across different models.
+Model registries store and organize trained models for deployment.
+A/B testing compares two model versions by routing live traffic to each.
+Canary deployments gradually roll out new model versions to reduce risk.
+Shadow mode runs a new model in parallel without affecting production traffic.
+Explainability tools help interpret why a model made a specific prediction.

@@ -1,0 +1,12 @@
+Vector databases store high-dimensional embeddings for similarity search.
+Cosine similarity measures the angle between two embedding vectors.
+Euclidean distance measures straight-line distance between embedding vectors.
+HNSW is a graph-based approximate nearest neighbor search algorithm.
+IVF (Inverted File Index) clusters vectors for faster approximate search.
+Weaviate is an open-source vector database with built-in ML model integrations.
+Qdrant is a vector similarity search engine with filtering capabilities.
+Pinecone is a managed vector database service for production deployments.
+Milvus is a distributed open-source vector database for large-scale search.
+Metadata filtering allows narrowing search results using non-vector fields.
+Hybrid search combines dense vector search with sparse keyword search.
+Index types trade off between search speed and memory usage in vector databases.

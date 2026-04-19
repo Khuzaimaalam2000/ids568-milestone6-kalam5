@@ -1,0 +1,9 @@
+{
+  "task_id": 5,
+  "task": "What is MLOps?",
+  "tool_used": "retriever",
+  "answer": " MLOps refers to the practice of combining DevOps principles with machine learning, particularly for production systems. It includes activities like model monitoring, data drift detection, model versioning, CI/CD pipelines, and feature stores management.",
+  "retrieval_latency": 0.02294015884399414,
+  "generation_latency": 56.57943105697632,
+  "total_latency": 56.60237121582031
+}

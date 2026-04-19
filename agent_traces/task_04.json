@@ -1,0 +1,9 @@
+{
+  "task_id": 4,
+  "task": "What is FAISS?",
+  "tool_used": "retriever",
+  "answer": " FAISS is Facebook AI Similarity Search, an open-source vector database library.",
+  "retrieval_latency": 0.03275799751281738,
+  "generation_latency": 48.32986283302307,
+  "total_latency": 48.36262083053589
+}

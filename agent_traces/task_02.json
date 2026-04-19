@@ -1,0 +1,9 @@
+{
+  "task_id": 2,
+  "task": "Explain vector databases",
+  "tool_used": "retriever",
+  "answer": " Vector databases are systems designed for storing high-dimensional embeddings, enabling similarity search between these vectors. They use algorithms like Cosine Similarity and Euclidean Distance to measure the relationship between vectors. Examples include HNSW (a graph-based approximate nearest neighbor search algorithm) and Weaviate (an open-source vector database with built-in ML model integrations).",
+  "retrieval_latency": 0.043374061584472656,
+  "generation_latency": 70.67434120178223,
+  "total_latency": 70.7177152633667
+}

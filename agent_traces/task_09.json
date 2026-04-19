@@ -1,0 +1,9 @@
+{
+  "task_id": 9,
+  "task": "What is 2+2?",
+  "tool_used": "direct",
+  "answer": " 4",
+  "retrieval_latency": 0.0,
+  "generation_latency": 3.656697988510132,
+  "total_latency": 3.656697988510132
+}

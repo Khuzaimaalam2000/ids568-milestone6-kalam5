@@ -1,0 +1,10 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Machine learning is a subset of AI where systems learn from data automatically.
+Deep learning uses neural networks with many layers to learn complex patterns.
+Supervised learning requires labeled training data to learn from examples.
+Unsupervised learning finds hidden patterns in data without labeled examples.
+Reinforcement learning trains agents by rewarding desired behaviors.
+Natural language processing (NLP) helps computers understand human language.
+Computer vision enables machines to interpret and understand visual information.
+Transfer learning reuses a model trained on one task for a different but related task.
+Fine-tuning adapts a pretrained model to a specific domain using new data.

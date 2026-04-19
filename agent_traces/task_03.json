@@ -1,0 +1,9 @@
+{
+  "task_id": 3,
+  "task": "What is chunking?",
+  "tool_used": "retriever",
+  "answer": " Chunking refers to the process of breaking down complex data or information into smaller, more manageable pieces (chunks). This helps maintain context across boundaries within the data.",
+  "retrieval_latency": 0.025557994842529297,
+  "generation_latency": 58.38865900039673,
+  "total_latency": 58.41421699523926
+}

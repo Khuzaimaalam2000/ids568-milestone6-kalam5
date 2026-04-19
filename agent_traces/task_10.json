@@ -1,0 +1,9 @@
+{
+  "task_id": 10,
+  "task": "Summarize RAG systems",
+  "tool_used": "summarizer",
+  "answer": " RAG systems are color-coded status indicators used to quickly communicate the priority and progress of tasks or projects. The acronym stands for Red (high priority, urgent), Amber (medium priority, needs attention), and Green (low priority, no immediate action required). These systems help teams manage workflows efficiently by focusing on high-priority tasks first.",
+  "retrieval_latency": 0.0,
+  "generation_latency": 20.342814922332764,
+  "total_latency": 20.342814922332764
+}

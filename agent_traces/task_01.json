@@ -1,0 +1,9 @@
+{
+  "task_id": 1,
+  "task": "What is RAG?",
+  "tool_used": "retriever",
+  "answer": " Retrieval-Augmented Generation (RAG) is a method that combines retrieval with language model generation, reducing hallucinations by grounding responses in external knowledge.",
+  "retrieval_latency": 0.4060819149017334,
+  "generation_latency": 67.92723512649536,
+  "total_latency": 68.3333170413971
+}
